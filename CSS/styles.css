@@ -1,5 +1,19 @@
-.nav_centrado {
-    display: flex;
-    text-align: center;
+#presentacion {
+    background-image: url(../img/inicio.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
     align-items: center;
+    display: flex;    
+    height: 736px;
+    justify-content: center;
 }
+
+.contenedor-presentacion {
+    background-color: rgba(255, 255, 255, 0.74);
+}
+
+@media screen and (min-width:576px) {}
+
+
+@media screen and (min-width:768px) {}
+
