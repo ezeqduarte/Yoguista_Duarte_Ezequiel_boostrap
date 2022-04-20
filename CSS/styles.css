@@ -30,6 +30,7 @@ footer p {
     border-radius: 20px;
     width: 85px;
     color: white;
+    border: none;
 }
 
 .imagen_home {
@@ -55,6 +56,40 @@ footer p {
 #complementos p {
     text-align: center;
 }
+
+#contacto p {
+    text-align: center;
+}
+
+#contacto h1 {
+    text-align: center;
+}
+
+
+.contenedor_contacto p {
+    padding: 5%;
+}
+
+.maincontacto {
+    width: 80%;
+    margin: 20px 0px;
+}
+
+.maincontacto fieldset {
+    border: none;
+    
+}
+
+.maincontacto fieldset label {
+    text-align: center;
+}
+
+.maincontacto fieldset input {}
+
+#consulta {
+    resize: none;
+}
+
 
 @media screen and (min-width:576px) {}
 
