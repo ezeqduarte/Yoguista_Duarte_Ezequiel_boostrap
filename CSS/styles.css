@@ -36,6 +36,10 @@ footer p {
     border-radius: 20px;
 }
 
+#sobre_mi img {
+    border-radius: 20px;
+}
+
 @media screen and (min-width:576px) {}
 
 
