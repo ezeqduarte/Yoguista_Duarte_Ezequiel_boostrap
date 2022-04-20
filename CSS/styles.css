@@ -44,6 +44,18 @@ footer p {
     text-align: center;
 }
 
+#complementos img {
+    border-radius: 20px;
+}
+
+#complementos h1 {
+    text-align: center;
+}
+
+#complementos p {
+    text-align: center;
+}
+
 @media screen and (min-width:576px) {}
 
 
