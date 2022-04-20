@@ -40,6 +40,10 @@ footer p {
     border-radius: 20px;
 }
 
+#tips h1 {
+    text-align: center;
+}
+
 @media screen and (min-width:576px) {}
 
 
